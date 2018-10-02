@@ -17,3 +17,8 @@
 - Upload Screenshot(s) or provide a link to working demo of the website while making a PR.
 
 ## Contributors 
+-@akshat0047                                                                                                      
+-@thisisayush                                                    
+-@vips28
+
+
