@@ -1,0 +1,53 @@
+[
+  {
+    "id": 1,
+    "image": "/assets/images/alumni/akshat-pande.png",
+    "firstName": "Akshat",
+    "lastName": "Pande",
+    "quote": "Ask questions! No matter what.",
+    "social": [
+      {
+        "id": "linkedin",
+        "link": "https://www.linkedin.com/in/akshat-p-7b05b0121/"
+      },
+      {
+        "id": "github",
+        "link": "https://github.com/akshat0047"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "image": "/assets/images/alumni/venkatesh.png",
+    "firstName": "Venkatesh",
+    "lastName": "Chaturvedi",
+    "quote": "You only live once! So use Archlinux and enjoy life.",
+    "social": [
+      {
+        "id": "linkedin",
+        "link": "https://www.linkedin.com/in/venkatesh-chaturvedi-a841201b8/"
+      },
+      {
+        "id": "github",
+        "link": "https://github.com/Blaster4385"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "image": "/assets/images/alumni/Rohan.png",
+    "firstName": "Rohan Raj",
+    "lastName": "Gupta",
+    "quote": "Don't think too much, just start with it.",
+    "social": [
+      {
+        "id": "linkedin",
+        "link": "https://www.linkedin.com/in/rohan-raj-gupta/"
+      },
+      {
+        "id": "github",
+        "link": "https://github.com/rohan09-raj"
+      }
+    ]
+  }
+]
