@@ -23,7 +23,8 @@
   transform: rotateY(180deg);
 }
 
-.event:hover .content__btn {
+.event:hover .content__btn ,
+.event:hover .content__btng {
   transform: rotateY(180deg);
   bottom: -65px;
 }
@@ -115,7 +116,28 @@
   z-index: 3;
 }
 
-.content__btn a {
+.content__btng {
+  margin: var(--margin-medium);
+  background: #008000;
+  border-radius: 1rem;
+  border: none;
+  padding: 1rem 2rem;
+  font-size: clamp(var(--font-small), 2.5vw, var(--font-medium));
+  font-weight: 600;
+  color: white;
+  cursor: pointer;
+  bottom: -5px;
+  position: absolute;
+  left: 0;
+  right: 0;
+  backface-visibility: hidden;
+  transform: rotateY(180deg);
+  transition: all 0.8s;
+  z-index: 3;
+}
+
+.content__btn a , 
+.content__btng a {
   text-decoration: none;
 }
 

@@ -62,7 +62,7 @@ const EventItem = ({ image, title, date, time, venue, about, register, gallery})
           </button>
         )},
         {gallery && (
-          <button className={styles.content__btn}>
+          <button className={styles.content__btng}>
             <a href={gallery} target="_blank" rel="noreferrer">
               View Gallery
             </a>
