@@ -1,5 +1,15 @@
 [
   {
+    "id": 8 ,
+    "image": "assets/images/posters/python-workshop.png",
+    "title": "code.py",
+    "date": "Jaunary 18th, 2024",
+    "time": "2:00 PM - 5:00 PM",
+    "venue": "Multi-Purpose Hall, Clock Tower",
+    "about": "Unlock the power of coding at 'code.py: An Introduction to Python' workshop, your gateway to Python excellence!",
+    "register": "https://bit.ly/aliaspython"
+  },
+  {
     "id": 7,
     "image": "assets/images/posters/dev-rush.png",
     "title": "Dev Rush",
