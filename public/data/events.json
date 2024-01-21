@@ -1,13 +1,22 @@
 [
   {
+    "id":  9,
+    "image": "assets/images/posters/python-workshop.png",
+    "title": "code.py Day 2",
+    "date": "Jaunary 23rd, 2024",
+    "time": "2:00 PM - 5:00 PM",
+    "venue": "Multi-Purpose Hall, Clock Tower",
+    "about": "Unlock the power of coding at 'code.py': An Introduction to Python workshop, your gateway to Python excellence!",
+    "register": "https://bit.ly/aliaspython"
+  },
+  {
     "id": 8 ,
     "image": "assets/images/posters/python-workshop.png",
     "title": "code.py",
     "date": "Jaunary 18th, 2024",
     "time": "2:00 PM - 5:00 PM",
     "venue": "LT-003, AB3",
-    "about": "Unlock the power of coding at 'code.py': An Introduction to Python workshop, your gateway to Python excellence!",
-    "register": "https://bit.ly/aliaspython"
+    "about": "Unlock the power of coding at 'code.py': An Introduction to Python workshop, your gateway to Python excellence!"
   },
   {
     "id": 7,
