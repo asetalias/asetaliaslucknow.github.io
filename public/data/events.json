@@ -1,13 +1,22 @@
 [
   {
+    "id":  10,
+    "image": "assets/images/posters/linux-install-fest-2024.png",
+    "title": "Linux Install Fest",
+    "date": "February 23rd, 2024",
+    "time": "2:00 PM - 5:00 PM",
+    "venue": "LT-304, AB3",
+    "about": "ALiAS organized a successful Linux Install Fest for first-year students, enriching the tech community with hands-on open-source experience.",
+    "register": "https://bit.ly/alias-linux-install"
+  },
+  {
     "id":  9,
     "image": "assets/images/posters/python-workshop-2.png",
     "title": "code.py II",
     "date": "Jaunary 23rd, 2024",
     "time": "2:00 PM - 5:00 PM",
     "venue": "Multi-Purpose Hall, Clock Tower",
-    "about": "Unlock the power of coding at 'code.py': An Introduction to Python workshop, your gateway to Python excellence!",
-    "register": "https://bit.ly/aliaspython"
+    "about": "Unlock the power of coding at 'code.py': An Introduction to Python workshop, your gateway to Python excellence!"
   },
   {
     "id": 8 ,
