@@ -302,5 +302,21 @@
         "link": "https://github.com/AyushAwasthi2384"
       }
     ]
+  },
+  {
+    "id": 20,
+    "image": "assets/images/members/shresth.png",
+    "name": "Shresth Tiwari",
+    "role": "Volunteer",
+    "social": [
+      {
+        "id": "linkedin",
+        "link": "https://www.linkedin.com/in/shresth-tiwari-37b417300/"
+      },
+      {
+        "id": "github",
+        "link": "https://github.com/tiwari-shresth"
+      }
+    ]
   }
 ]
