@@ -1,5 +1,24 @@
 [
   {
+    "id":  12,
+    "image": "assets/images/posters/blockchain-workshop.png",
+    "title": "Getting started with Blockchain and Hackathons",
+    "date": "March 30th, 2024",
+    "time": "8:00 PM",
+    "venue": "Online Meet, Discord",
+    "about": "ALiAS organized a successful online meet for introduction to blockchains and hackathons in general.",
+    "register": "https://bit.ly/eventalias"
+  },
+  {
+    "id":  11,
+    "image": "assets/images/posters/chatbot-development.png",
+    "title": "Chatbot Development",
+    "date": "Mrach 15th 2024",
+    "time": "2:00 PM - 5:00 PM",
+    "venue": "LT-003, AB3",
+    "about": "ALiAS organized a successful chatbot developement workshop and introduction to NLP for the students."
+  },
+  {
     "id":  10,
     "image": "assets/images/posters/linux-install-fest-2024.png",
     "title": "Linux Install Fest",
