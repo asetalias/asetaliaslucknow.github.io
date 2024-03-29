@@ -318,5 +318,21 @@
         "link": "https://github.com/tiwari-shresth"
       }
     ]
+  },
+  {
+    "id": 21,
+    "image": "assets/images/members/Prasoon.png",
+    "name": "Prasoon Kundu",
+    "role": "Volunteer",
+    "social": [
+      {
+        "id": "linkedin",
+        "link": "https://www.linkedin.com/in/prasoon-kundu-772809294/"
+      },
+      {
+        "id": "github",
+        "link": "https://github.com/CoderKundu"
+      }
+    ]
   }
 ]
