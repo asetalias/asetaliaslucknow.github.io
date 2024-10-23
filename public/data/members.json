@@ -177,22 +177,6 @@
   },
   {
     "id": 12,
-    "image": "assets/images/members/Sanjana.png",
-    "name": "Sanjana Bisht",
-    "role": "Volunteer",
-    "social": [
-      {
-        "id": "linkedin",
-        "link": "https://www.linkedin.com/in/sanjana-bisht-981454297/"
-      },
-      {
-        "id": "github",
-        "link": "https://github.com/saanjbisht"
-      }
-    ]
-  },
-  {
-    "id": 13,
     "image": "assets/images/members/Akshay.png",
     "name": "Akshay Singh",
     "role": "Volunteer",
@@ -208,7 +192,7 @@
     ]
   },
   {
-    "id": 14,
+    "id": 13,
     "image": "assets/images/members/Naman.png",
     "name": "Naman Chawla",
     "role": "Volunteer",
@@ -224,7 +208,7 @@
     ]
   },
   {
-    "id": 15,
+    "id": 14,
     "image": "assets/images/members/Shaswat.png",
     "name": "Shashwat Gupta",
     "role": "Volunteer",
@@ -240,7 +224,7 @@
     ]
   },
   {
-    "id": 16,
+    "id": 15,
     "image": "assets/images/members/Apoorv.png",
     "name": "Apoorv Pachori",
     "role": "Volunteer",
@@ -256,7 +240,7 @@
     ]
   },
   {
-    "id": 17,
+    "id": 16,
     "image": "assets/images/members/Cassia.png",
     "name": "Cassia Rose Kataria",
     "role": "Volunteer",
@@ -272,7 +256,7 @@
     ]
   },
   {
-    "id": 18,
+    "id": 17,
     "image": "assets/images/members/Vabhav.png",
     "name": "Vabhav Tripathi",
     "role": "Volunteer",
@@ -288,7 +272,7 @@
     ]
   },
   {
-    "id": 19,
+    "id": 18,
     "image": "assets/images/members/ayush.png",
     "name": "Ayush Awasthi",
     "role": "Volunteer",
@@ -304,7 +288,7 @@
     ]
   },
   {
-    "id": 20,
+    "id": 19,
     "image": "assets/images/members/shresth.png",
     "name": "Shresth Tiwari",
     "role": "Volunteer",
@@ -320,7 +304,7 @@
     ]
   },
   {
-    "id": 21,
+    "id": 20,
     "image": "assets/images/members/Prasoon.png",
     "name": "Prasoon Kundu",
     "role": "Volunteer",
