@@ -1,12 +1,21 @@
 [
   {
-    "id":  13,
+    "id":  14,
     "image": "assets/images/posters/Hack101-Hackathon_Intro-poster.png",
     "title": "Hack-101",
     "date": "October 24th 2024",
     "time": "2:00 PM - 5:00 PM",
     "venue": "LT-003, AB3",
     "about": "ALiAS organized a successful meet for introduction to hackathons and to discuss collaboration and creativity in hackathonss"
+  },
+  {
+    "id":  13,
+    "image": "assets/images/posters/kickstarter24.jpeg",
+    "title": "Kickstarter",
+    "date": "October 3rd 2024",
+    "time": "2:00 PM - 5:00 PM",
+    "venue": "LT-003, AB3",
+    "about": "ALiAS organized a successful meet for introduction to Git, GitHub and Open Source."
   },
   {
     "id":  12,
