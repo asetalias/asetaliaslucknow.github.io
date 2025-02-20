@@ -1,12 +1,21 @@
 [
   {
+    "id":  15,
+    "image": "assets/images/posters/UXplore_poster.jpg",
+    "title": "UXplore",
+    "date": "February 21st 2025",
+    "time": "2:00 PM - 5:00 PM",
+    "venue": "LT-003, AB3",
+    "about": "ALiAS organized a successful meet for hands-on experience to think and design like a pro"
+  },
+  {
     "id":  14,
     "image": "assets/images/posters/Hack101-Hackathon_Intro-poster.png",
     "title": "Hack-101",
     "date": "October 24th 2024",
     "time": "2:00 PM - 5:00 PM",
     "venue": "LT-003, AB3",
-    "about": "ALiAS organized a successful meet for introduction to hackathons and to discuss collaboration and creativity in hackathonss"
+    "about": "ALiAS organized a successful meet for introduction to hackathons and to discuss collaboration and creativity in hackathons"
   },
   {
     "id":  13,
