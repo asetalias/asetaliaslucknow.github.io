@@ -1,5 +1,14 @@
 [
   {
+    "id":  16,
+    "image": "assets/images/posters/Linux_installFest.jpeg",
+    "title": "Linux Install Fest",
+    "date": "March 1st 2025",
+    "time": "10 AM",
+    "venue": "Multi-Purpose Hall, Clock Tower, Amity University",
+    "about": "FOSS United Lucknow x ALiAS Lucknow organised a successful Linux Install Event where participants learned how to install and set up Linux on their systems, explore different distributions, and get hands-on experience with open-source tools"
+  },
+  {
     "id":  15,
     "image": "assets/images/posters/UXplore_poster.jpg",
     "title": "UXplore",
